@@ -1,5 +1,8 @@
 # qr_reader
 
+![Captura27](https://user-images.githubusercontent.com/62777613/210395235-71d4598e-576a-43f5-b84d-be01f4ce3cf4.PNG)
+
+
 A new Flutter project.
 
 ## Getting Started
